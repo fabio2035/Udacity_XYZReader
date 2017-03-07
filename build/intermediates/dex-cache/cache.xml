@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\FBrigati\AndroidStudioProjects\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="C:\Users\FBrigati\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-22.0.0_722efe3ea684f9e54430b964696b9a2a41d64636\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FBrigati\AndroidStudioProjects\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\FBrigati\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.0.0_b1cdb09790c9b22f7c75d5f01ad2d3c94c280c6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FBrigati\AndroidStudioProjects\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="615428f01413101c2b41fb7c719f71ff4fac8860">
+        <dex dex="C:\Users\FBrigati\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_81036f5e2d635e323c28481460b5cb0bd94ac1dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FBrigati\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\FBrigati\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_a01b7168f07fcca84dbf309c6a77b2025f78cc1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FBrigati\AndroidStudioProjects\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="C:\Users\FBrigati\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-22.0.0_e31d4989d07998829beabf2eb171f62f4bb04618\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FBrigati\AndroidStudioProjects\XYZReader\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\FBrigati\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\2\volley_773eebb8afc9e3abdac7c7d489cb98db8c6ea5fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FBrigati\AndroidStudioProjects\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\FBrigati\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.0.0_96b6b14bcf41edf7d37293ba18d4461d0773c77c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FBrigati\AndroidStudioProjects\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\FBrigati\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.0.0_ce7e07e464f7d2ca11a7aedfe5c0233d641f7adf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FBrigati\AndroidStudioProjects\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="90f607c56a70c3e4442e3a561820993f4ff28e75">
+        <dex dex="C:\Users\FBrigati\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c90933aec1022fc5215ef31c7a463a3b3b873783\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FBrigati\AndroidStudioProjects\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="C:\Users\FBrigati\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.0.0_cb6354ad3422e1e0c65047e78a2491efdeca173b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FBrigati\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="C:\Users\FBrigati\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.1.2_92b672604cd12cd87a77e22e8fa26b0c329d35c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FBrigati\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\FBrigati\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.0.0_2884e1a16dcb8cfbed9b210c54bfe0508ee73c7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FBrigati\AndroidStudioProjects\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="C:\Users\FBrigati\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-22.0.0_aa5b311d84fee9b21c55ac293c0a465905d1b1da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FBrigati\AndroidStudioProjects\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="C:\Users\FBrigati\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-22.0.0_28816d06ce1e91be1f34570882d61a46083ecb7e\classes.dex" />
+    </item>
+
+</items>

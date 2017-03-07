@@ -1,0 +1,7 @@
+#Sun Mar 05 18:11:46 CAT 2017
+base.0=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c90933aec1022fc5215ef31c7a463a3b3b873783
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_81036f5e2d635e323c28481460b5cb0bd94ac1dc\\classes.dex
+base.1=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_81036f5e2d635e323c28481460b5cb0bd94ac1dc
+file.0=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c90933aec1022fc5215ef31c7a463a3b3b873783\\classes.dex
