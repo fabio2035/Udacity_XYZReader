@@ -11,6 +11,7 @@ import android.os.Bundle;
 import android.support.v13.app.FragmentStatePagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.ActionBarActivity;
+import android.util.Log;
 import android.util.TypedValue;
 import android.view.View;
 import android.view.ViewGroup;
@@ -37,6 +38,8 @@ public class ArticleDetailActivity extends ActionBarActivity
     private MyPagerAdapter mPagerAdapter;
     private View mUpButtonContainer;
     private View mUpButton;
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -106,6 +109,23 @@ public class ArticleDetailActivity extends ActionBarActivity
             }
         }
     }
+
+
+    @Override
+    public void onBackPressed() {
+        Log.v("onBackPressed", "Back button pressed");
+        if (mPager.getCurrentItem() == 0) {
+            Log.v("onBackPressed", "Is first item in pager..");
+            // If the user is currently looking at the first step, allow the system to handle the
+            // Back button. This calls finish() on this activity and pops the back stack.
+            finish();
+            //super.onBackPressed();
+        } else {
+            // Otherwise, select the previous step.
+            mPager.setCurrentItem(mPager.getCurrentItem() - 1);
+        }
+    }
+
 
     @Override
     public Loader<Cursor> onCreateLoader(int i, Bundle bundle) {
