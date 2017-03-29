@@ -45,7 +45,7 @@ MERGED from [com.android.support:palette-v7:22.2.0] C:\Users\FBrigati\AndroidStu
 	android:icon
 		ADDED from C:\Users\FBrigati\AndroidStudioProjects\XYZReader\src\main\AndroidManifest.xml:13:9-43
 	android:theme
-		ADDED from C:\Users\FBrigati\AndroidStudioProjects\XYZReader\src\main\AndroidManifest.xml:15:9-43
+		ADDED from C:\Users\FBrigati\AndroidStudioProjects\XYZReader\src\main\AndroidManifest.xml:15:9-45
 activity#com.example.xyzreader.ui.ArticleListActivity
 ADDED from C:\Users\FBrigati\AndroidStudioProjects\XYZReader\src\main\AndroidManifest.xml:17:9-24:20
 	android:label

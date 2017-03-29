@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Mar 25 23:47:26 CAT 2017
+#Mon Mar 27 23:04:06 CAT 2017
 14.set=ANDROID_RESOURCE
 180.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png
 118.set=ANDROID_RESOURCE
@@ -17,7 +17,7 @@
 134.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
 186.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
 161.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
-192.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png
+192.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\photo_background_protection.xml
 132.set=DEX
 179.set=ANDROID_RESOURCE
 59.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
@@ -71,7 +71,7 @@
 187.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
 110.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
 162.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
-193.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_popup_menu_item_layout.xml
+193.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png
 142.set=ANDROID_RESOURCE
 189.set=ANDROID_RESOURCE
 35.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
@@ -124,7 +124,7 @@
 111.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
 163.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5
 106.set=ANDROID_RESOURCE
-194.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_tab_indicator_material.xml
+194.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_popup_menu_item_layout.xml
 190.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
 152.set=ANDROID_RESOURCE
 199.set=ANDROID_RESOURCE
@@ -139,6 +139,7 @@
 148.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
 69.set=ANDROID_RESOURCE
 169.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_select_dialog_material.xml
+200.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
 123.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
 144.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\com.android.support-design-22.2.0_061dad179809d6eb3daaf163eaad782b6f748371\\classes.dex
 175.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
@@ -178,7 +179,7 @@
 164.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
 116.set=ANDROID_RESOURCE
 0.set=ANDROID_RESOURCE
-195.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_switch_thumb_material.xml
+195.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_tab_indicator_material.xml
 191.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
 170.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v21\\fragment_article_detail.xml
 162.set=ANDROID_RESOURCE
@@ -232,7 +233,7 @@
 165.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0
 126.set=ANDROID_RESOURCE
 140.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
-196.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\layout_snackbar_include.xml
+196.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_switch_thumb_material.xml
 171.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\abc_slide_out_top.xml
 38.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
 133.set=ANDROID_RESOURCE
@@ -283,7 +284,7 @@
 166.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
 136.set=DEX
 141.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
-197.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_article_list.xml
+197.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\layout_snackbar_include.xml
 120.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png
 172.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png
 39.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
@@ -335,7 +336,7 @@
 167.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
 146.set=ANDROID_RESOURCE
 142.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
-198.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml
+198.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_article_list.xml
 121.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\notification_template_big_media_narrow.xml
 0.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
 173.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_action_bar_view_list_nav_layout.xml
@@ -357,7 +358,7 @@
 6.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\notification_template_media.xml
 181.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
 121.set=ANDROID_RESOURCE
-count=200
+count=201
 27.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
 77.set=DEX
 79.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
@@ -388,7 +389,7 @@ count=200
 156.set=ANDROID_RESOURCE
 147.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_item_background_holo_light.xml
 143.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
-199.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+199.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml
 122.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_search_view.xml
 13.set=ANDROID_RESOURCE
 1.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
@@ -427,7 +428,7 @@ count=200
 194.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
 192.set=ANDROID_RESOURCE
 55.set=ANDROID_RESOURCE
-190.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\fab_out.xml
+190.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xxhdpi-v4\\ic_launcher.png
 159.set=ANDROID_RESOURCE
 16.set=DEX
 36.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_dialog_material_background_dark.xml
@@ -443,6 +444,7 @@ count=200
 166.set=ANDROID_RESOURCE
 148.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_screen_simple_overlay_action_mode.xml
 144.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\com.android.support-design-22.2.0_061dad179809d6eb3daaf163eaad782b6f748371
+200.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
 123.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_cab_background_top_material.xml
 23.set=ANDROID_RESOURCE
 2.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9
@@ -473,14 +475,14 @@ count=200
 83.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
 62.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\abc_alert_dialog_material.xml
 137.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\notification_template_lines.xml
-189.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xxhdpi-v4\\ic_launcher.png
+189.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\toolbar.xml
 112.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\fab_in.xml
 19.set=ANDROID_RESOURCE
 164.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_list_menu_item_checkbox.xml
 195.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
 170.base=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
 65.set=ANDROID_RESOURCE
-191.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\photo_background_protection.xml
+191.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\fab_out.xml
 7.set=ANDROID_RESOURCE
 169.set=ANDROID_RESOURCE
 26.set=DEX
@@ -551,6 +553,7 @@ count=200
 100.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_article_detail.xml
 147.set=ANDROID_RESOURCE
 152.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\notification_template_part_time.xml
+200.set=ANDROID_RESOURCE
 108.set=ANDROID_RESOURCE
 50.set=ANDROID_RESOURCE
 25.file=C\:\\Users\\FBrigati\\AndroidStudioProjects\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\select_dialog_singlechoice_material.xml

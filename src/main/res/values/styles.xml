@@ -17,10 +17,18 @@
 
 <resources>
 
-    <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
+    <style name="XYZTheme" parent="XYZTheme.Base"/>
+
+    <style name="XYZTheme.Base" parent="Theme.AppCompat.Light.DarkActionBar">
+    <!--If you are using revision 22.1 please use just windowNoTitle. Without android:-->
+    <item name="windowNoTitle">true</item>
+    <!--We will be using the toolbar so no need to show ActionBar-->
+    <item name="windowActionBar">false</item>
     <item name="colorPrimary">@color/theme_primary</item>
     <item name="colorPrimaryDark">@color/theme_primary_dark</item>
     <item name="colorAccent">@color/theme_accent</item>
     </style>
+
+
 
 </resources>

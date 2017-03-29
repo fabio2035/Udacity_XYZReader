@@ -4,29 +4,29 @@
     density="xxxhdpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="545960474405418"
+    timestamp="887279458366261"
     token="6088177250181192376"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="835" />
+        duration="7134" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="88" />
+        duration="906" />
     <task
         name="verifier"
-        duration="44" />
+        duration="229" />
 
     <artifact
         location="C:\Users\FBrigati\AndroidStudioProjects\XYZReader\build\outputs\apk\XYZReader-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="545960474405418"
+        timestamp="887279458366261"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\FBrigati\AndroidStudioProjects\XYZReader\build\outputs\apk\XYZReader-debug.apk"

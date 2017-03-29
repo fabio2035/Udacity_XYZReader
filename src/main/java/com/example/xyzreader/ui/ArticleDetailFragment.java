@@ -254,6 +254,7 @@ public class ArticleDetailFragment extends Fragment implements
 
             Log.v("Palette Load:", "About to load bitmap");
             Picasso.with(getActivity()).load(mCursor.getString(ArticleLoader.Query.PHOTO_URL)).into(mTarget);
+
         } else {
             Log.v("BindView", "Setting visibility to null");
             mRootView.setVisibility(View.GONE);
