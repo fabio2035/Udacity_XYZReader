@@ -20,7 +20,8 @@
             android:paddingTop="116dp"
             android:paddingLeft="@dimen/list_side_margin"
             android:paddingRight="@dimen/list_side_margin"
-            android:paddingBottom="28dp" />
+            android:paddingBottom="28dp"
+            app:layout_behavior="@string/appbar_scroling_view_behavior"/>
     </android.support.v4.widget.SwipeRefreshLayout>
 
     <android.support.design.widget.AppBarLayout
@@ -28,12 +29,19 @@
         android:layout_width="match_parent"
         android:layout_height="112dp"
         android:background="?attr/colorPrimary"
-        android:elevation="8dp">
-
+        android:elevation="@dimen/appbar_elevation"
+        android:gravity="bottom">
+        <android.support.design.widget.CollapsingToolbarLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_scrollFlags="scroll|exitUntilCollapsed">
         <include
             android:id="@+id/toolbar"
             layout="@layout/toolbar" />
+        </android.support.design.widget.CollapsingToolbarLayout>
 
     </android.support.design.widget.AppBarLayout>
+
+
 
 </android.support.design.widget.CoordinatorLayout>

@@ -9,7 +9,9 @@
     android:layout_height="?actionBarSize"
     android:layout_gravity="bottom"
     layout_height="wrap_content"
-    android:layout_width="match_parent">
+    android:gravity="bottom"
+    android:layout_width="match_parent"
+    app:layout_scrollFlags="scroll|enterAlways">
 
     <ImageView
         android:layout_width="wrap_content"

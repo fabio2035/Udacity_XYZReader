@@ -25,7 +25,7 @@
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="e861fe59882de06834df1cb8090372b18136c5d1">
+        sha1="69f85bedc72dc3e4304cee335938855880028cc0">
         <dex dex="C:\Users\FBrigati\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_81036f5e2d635e323c28481460b5cb0bd94ac1dc\classes.dex" />
     </item>
     <item
@@ -88,7 +88,7 @@
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="439c86f268b969e0c7f6384a4c1309eb9d188abf">
+        sha1="48b3037c3e568d2ee65f4235f738b3df412c40bf">
         <dex dex="C:\Users\FBrigati\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c90933aec1022fc5215ef31c7a463a3b3b873783\classes.dex" />
     </item>
     <item
